@@ -1,0 +1,23 @@
+{
+  "name": "Test Pokemon B1",
+  "description": "This is a unique NFT",
+  "image": "https://www.mypokecard.com/en/Gallery/my/galery/kW3o0qQVB5Ss.jpg",
+  "external_link": "https://www.mypokecard.com/en/Gallery/my/galery/kW3o0qQVB5Ss.jpg",
+  "seller_fee_basis_points": 100, 
+  
+  "fee_recipient": "0x21431540DdbFb5b610e05f4de38691126E4f503C",   
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shape",
+      "value": "Circle"
+    }
+  ]
+}
